@@ -1,0 +1,38 @@
+id: IBBBE3D71
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T02:09:42.146439'
+last_modified: '2022-06-19T02:09:42.146468'
+parser: null
+source_metadata:
+  title: History of Zhwa lu Monastery and the Autobiography of Zhwa lu Blo gsal bstan
+    skyong (1804–1864)
+  author: ཞྭ་ལུ་བློ་གསལ་བསྟན་སྐྱོང་།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2012-10); slightly
+    incomplete, revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - Editorial process:ཀུན་དགའ་རྡོ་རྗེ། (kun), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:ཀུན་དགའ་རྡོ་རྗེ། (kun)
+  text_witnesses: https://sakyaresearch.org/sources/115
+  bases:
+    a60c:
+      title: History of Zhwa lu Monastery and the Autobiography of Zhwa lu Blo gsal
+        bstan skyong (1804–1864)
+      order: 1
+      base_file: a60c.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
